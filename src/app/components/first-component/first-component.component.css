@@ -1,0 +1,9 @@
+.title {
+    background: #000;
+    color: orange;
+    padding: 15px;
+}
+
+p { /* vai fazer parágrafo de todos meus components */
+    padding: 5px;
+}
